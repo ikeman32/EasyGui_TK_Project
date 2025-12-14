@@ -14,4 +14,4 @@ authors = [
 dependencies = []        # No external dependencies needed now!
 
 [project.urls]
-"Homepage" = "https://github.com/ikeman32/easygui-tk"
+"Homepage" = "https://github.com/ikeman32/EasyGui_TK_Project"

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "easygui-tk"      # <--- The name used for 'pip install'
+version = "1.0.0"
+description = "A modern, declarative Tkinter wrapper."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+  {name = "David Isakson", email = "david.isakson.ii@gmail.com"},
+]
+dependencies = []        # No external dependencies needed now!
+
+[project.urls]
+"Homepage" = "https://github.com/ikeman32/easygui-tk"

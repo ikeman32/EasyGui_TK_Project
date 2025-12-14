@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/easygui-tk.svg)](https://badge.fury.io/py/easygui-tk)
 # easygui-tk
 
 **A modern, declarative wrapper for Tkinter.**
